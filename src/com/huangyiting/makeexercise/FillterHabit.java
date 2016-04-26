@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class FillterHabit {
-	private static final String FILE_NAME = "2016-04-03.txt";
+	private static final String FILE_NAME = "2016-04-24.txt";
 	private static final String FILE_OUT_NAME = FILE_NAME + ".out.txt";
 	
 	
