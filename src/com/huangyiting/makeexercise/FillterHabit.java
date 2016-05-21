@@ -11,10 +11,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FillterHabit {
-	private static String FILE_NAME = "2016-04-24.txt";
+	private static String FILE_NAME = "2016-5-22.txt";
 	private static String FILE_OUT_NAME = FILE_NAME + ".out.txt";
+	private static String USER_FILE_NAME = "makeUsers.txt";
 	private static int REACH_COUNT = 3;
-	
 	
 
 
@@ -22,12 +22,12 @@ public class FillterHabit {
 		ArrayList<HabitBean> userContents = new ArrayList<HabitBean>();
 		Map<String, ArrayList<HabitBean>> notReachuserContents = new HashMap<>();
 		
-		if (args != null && args.length>=1 && args[0] != null) {
-			FILE_NAME = args[0];
-		} else {
-			wirtehelp();
-			return;
-		}
+//		if (args != null && args.length>=1 && args[0] != null) {
+//			FILE_NAME = args[0];
+//		} else {
+//			wirtehelp();
+//			return;
+//		}
 		
 //		if (args != null && args.length>=2 && args[0] != null) {
 //			try{
@@ -36,6 +36,30 @@ public class FillterHabit {
 //				
 //			}
 //		}
+		
+		//读取微信的所有好友姓名
+
+		ArrayList<String> userNames = new ArrayList<>();
+		try {
+	        FileInputStream fis = new FileInputStream(USER_FILE_NAME); 
+	        InputStreamReader fileReader = new InputStreamReader(fis, "UTF-8"); 
+			BufferedReader bufferedReader = new BufferedReader(fileReader);
+
+			String line = bufferedReader.readLine();
+
+			while (line != null) {
+				
+				userNames.add(line);
+				line = bufferedReader.readLine();
+			}
+			
+			fileReader.close();
+			fileReader.close();
+			fis.close();
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+		
 		
 		try {
 	        FileInputStream fis = new FileInputStream(FILE_NAME); 
@@ -57,7 +81,9 @@ public class FillterHabit {
 					HabitBean bean = new HabitBean();
 					bean.time = time.trim();
 					bean.userName = userName.trim().replaceAll("\\?", " ");
-					
+					bean.userName = bean.userName.trim();
+					String number = bean.userName.split("-")[0];
+					bean.number = number;
 					int wenben = line.indexOf("文本");
 					String content = line.substring(wenben + 4, line.length());
 							
@@ -73,15 +99,15 @@ public class FillterHabit {
 			
 			// 转化list 2 map
 			for(HabitBean bean: userContents) {
-				ArrayList<HabitBean> array = notReachuserContents.get(bean.userName);
+				ArrayList<HabitBean> array = notReachuserContents.get(bean.number);
 				if(array == null) {
 					array = new ArrayList<>();
 				}
 				array.add(bean);
-				notReachuserContents.put(bean.userName, array);
+				notReachuserContents.put(bean.number, array);
 			}
 			
-			bufferedWriter.write("已达标\n");
+			bufferedWriter.write("已达标======================\n");
 			for (String username : notReachuserContents.keySet()) {
 				if(notReachuserContents.get(username).size() >= REACH_COUNT) {
 					for (HabitBean bean: notReachuserContents.get(username)) {
@@ -90,12 +116,23 @@ public class FillterHabit {
 				}
 			}
 			
-			bufferedWriter.write("未达标\n");
+			bufferedWriter.write("打卡次数未达标的人=================\n");
 			for (String username : notReachuserContents.keySet()) {
 				if(notReachuserContents.get(username).size() < REACH_COUNT) {
 					for (HabitBean bean: notReachuserContents.get(username)) {
 						writeInfoOut(bufferedWriter, bean);
 					}
+				}
+			}
+			
+			//查找没有任何打卡记录的人
+			bufferedWriter.write("没有打卡记录的人==================\n");
+			for (String name : userNames) {
+				String number = name.split("-")[0];
+				if(notReachuserContents.get(number) == null) {
+					HabitBean bean = new HabitBean();
+					bean.userName = name;
+					writeInfoOut(bufferedWriter, bean);
 				}
 			}
 			
