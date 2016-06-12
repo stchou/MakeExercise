@@ -15,13 +15,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FillterHabit {
-	public static String FILE_NAME = "2016-5-29.txt";
+	public static String FILE_NAME = "2016-6-5.txt";
 	public static String FILE_OUT_NAME = FILE_NAME + ".out.txt";
 	public static String USER_FILE_NAME = "makeUsers.txt";
 	public static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd"); 
 	
-	public static String StartDateString = "2016-05-22";
-	public static String EndDateString = "2016-05-28";
+	public static String StartDateString = "2016-05-29";
+	public static String EndDateString = "2016-06-04";
 	private static Date START_DATE;
 	private static Date END_DATE;
 	private static int REACH_COUNT = 3;
@@ -107,7 +107,7 @@ public class FillterHabit {
 				array = new ArrayList<>();
 			}
 			array.add(bean);
-			notReachuserContents.put(bean.number, array);
+			notReachuserContents.put(bean.number.trim(), array);
 		}
 
 		bufferedWriter.write("已达标======================\n");
@@ -138,7 +138,7 @@ public class FillterHabit {
 		// 查找没有任何打卡记录的人
 		bufferedWriter.write("没有打卡记录的人==================\n");
 		for (String name : userNames) {
-			String number = name.split("-")[0];
+			String number = name.split("-")[0].trim();
 			if (notReachuserContents.get(number) == null) {
 				HabitBean bean = new HabitBean();
 				bean.userName = name;
