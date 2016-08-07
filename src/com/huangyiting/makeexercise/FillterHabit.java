@@ -15,13 +15,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FillterHabit {
-	public static String FILE_NAME = "2016-7-10.txt";
+	public static String FILE_NAME = "2016-8-7.txt";
 	public static String FILE_OUT_NAME = FILE_NAME + ".out.txt";
 	public static String USER_FILE_NAME = "makeUsers.txt";
 	public static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd"); 
 	
-	public static String StartDateString = "2016-07-03";
-	public static String EndDateString = "2016-07-09";
+	public static String StartDateString = "2016-07-31";
+	public static String EndDateString = "2016-08-06";
 	private static Date START_DATE;
 	private static Date END_DATE;
 	private static int REACH_COUNT = 3;
