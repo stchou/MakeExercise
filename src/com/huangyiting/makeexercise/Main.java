@@ -87,32 +87,32 @@ public class Main extends JFrame  {
 		panel.add(endDateChooserJButton);
 		
 		// 选择群人员信息
-		JLabel memberLabel = new JLabel("选择群成员文件：");
-		final JTextField memchooseFileField = new JTextField();
-		memchooseFileField.setEditable(false);
-		JButton memchooseFileButton = new JButton("浏览");
-		memchooseFileButton.addActionListener(new ActionListener() {
-			
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				JFileChooser jfc = new JFileChooser();
-				jfc.setFileSelectionMode(JFileChooser.FILES_ONLY);
-				jfc.showDialog(new JLabel(), "选择微信群成员文件");
-				File file = jfc.getSelectedFile();
-				if(file==null || !file.exists()) {
-					return ;
-				}
-				WEIXIN_MEM_FILE_PATH = file.getAbsolutePath();
-				memchooseFileField.setText(WEIXIN_MEM_FILE_PATH);
-				
-			}
-		});
-		memberLabel.setBounds(new Rectangle(10, 90, 120, 30));
-		memchooseFileField.setBounds(new Rectangle(130, 90, 200, 26));
-		memchooseFileButton.setBounds(new Rectangle(350, 90, 100,30));
-		panel.add(memberLabel);
-		panel.add(memchooseFileField);
-		panel.add(memchooseFileButton);
+//		JLabel memberLabel = new JLabel("选择群成员文件：");
+//		final JTextField memchooseFileField = new JTextField();
+//		memchooseFileField.setEditable(false);
+//		JButton memchooseFileButton = new JButton("浏览");
+//		memchooseFileButton.addActionListener(new ActionListener() {
+//			
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				JFileChooser jfc = new JFileChooser();
+//				jfc.setFileSelectionMode(JFileChooser.FILES_ONLY);
+//				jfc.showDialog(new JLabel(), "选择微信群成员文件");
+//				File file = jfc.getSelectedFile();
+//				if(file==null || !file.exists()) {
+//					return ;
+//				}
+//				WEIXIN_MEM_FILE_PATH = file.getAbsolutePath();
+//				memchooseFileField.setText(WEIXIN_MEM_FILE_PATH);
+//				
+//			}
+//		});
+//		memberLabel.setBounds(new Rectangle(10, 90, 120, 30));
+//		memchooseFileField.setBounds(new Rectangle(130, 90, 200, 26));
+//		memchooseFileButton.setBounds(new Rectangle(350, 90, 100,30));
+//		panel.add(memberLabel);
+//		panel.add(memchooseFileField);
+//		panel.add(memchooseFileButton);
 		
 		
 
@@ -122,33 +122,34 @@ public class Main extends JFrame  {
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
+			    infoLabel.setText("");
 				if(WEIXIN_CHART_FILE_PATH.equals("")) {
 					JOptionPane.showMessageDialog(null,  "您还没有选择聊天文件！","提示",JOptionPane.INFORMATION_MESSAGE);
 					return;
 				}
-				if(WEIXIN_MEM_FILE_PATH.equals("")) {
-					JOptionPane.showMessageDialog(null,  "您还没有选择微信群成员文件！","提示",JOptionPane.INFORMATION_MESSAGE);
-					return;
-				}
-				infoLabel.append(" 开始扫描群成员信息...." + "\n");
-				Users usersScan = new Users();
-				Users.FILE_NAME = WEIXIN_MEM_FILE_PATH;
-				Users.FILE_OUT_NAME = WEIXIN_MEM_FILE_PATH + ".out";
-				try {
-					usersScan.run();
-
-					infoLabel.append("获取群成员信息成功！！ 存储在： " + Users.FILE_OUT_NAME  + "\n");
-				} catch (Exception e1) {
-					e1.printStackTrace();
-					infoLabel.append(e1.toString() + "\n");
-					return;
-				}
+//				if(WEIXIN_MEM_FILE_PATH.equals("")) {
+//					JOptionPane.showMessageDialog(null,  "您还没有选择微信群成员文件！","提示",JOptionPane.INFORMATION_MESSAGE);
+//					return;
+//				}
+//				infoLabel.append(" 开始扫描群成员信息...." + "\n");
+//				Users usersScan = new Users();
+//				Users.FILE_NAME = WEIXIN_MEM_FILE_PATH;
+//				Users.FILE_OUT_NAME = WEIXIN_MEM_FILE_PATH + ".out";
+//				try {
+//					usersScan.run();
+//
+//					infoLabel.append("获取群成员信息成功！！ 存储在： " + Users.FILE_OUT_NAME  + "\n");
+//				} catch (Exception e1) {
+//					e1.printStackTrace();
+//					infoLabel.append(e1.toString() + "\n");
+//					return;
+//				}
 				
 				
 				FillterHabit fillterHabit = new FillterHabit();
 				FillterHabit.FILE_NAME = WEIXIN_CHART_FILE_PATH;
-				FillterHabit.FILE_OUT_NAME = WEIXIN_CHART_FILE_PATH + " 打卡导出.txt";
-				FillterHabit.USER_FILE_NAME = Users.FILE_OUT_NAME;
+				FillterHabit.FILE_OUT_NAME = WEIXIN_CHART_FILE_PATH + " 打卡导出.xlsx";
+//				FillterHabit.USER_FILE_NAME = Users.FILE_OUT_NAME;
 				FillterHabit.StartDateString = FillterHabit.dateFormat.format(dateChooserJButton.getDate());
 				FillterHabit.EndDateString = FillterHabit.dateFormat.format(endDateChooserJButton.getDate());
 				try {
@@ -164,7 +165,7 @@ public class Main extends JFrame  {
 				infoLabel.append("结果文件存放在： " + FillterHabit.FILE_OUT_NAME + "\n");
 				
 				try {
-					Runtime.getRuntime().exec("start  " + FillterHabit.FILE_OUT_NAME);
+					Runtime.getRuntime().exec("" + FillterHabit.FILE_OUT_NAME);
 				} catch (IOException e1) {
 					e1.printStackTrace();
 				}

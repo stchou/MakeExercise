@@ -550,21 +550,21 @@ public class DateChooserJButton extends JButton {
     /** 
      * 测试方法 
      */  
-    public static void main(String[] args) {  
-        JFrame mainFrame = new JFrame("测试");  
-        mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
-        mainFrame.setSize(300, 300);  
-        mainFrame.setLayout(new java.awt.BorderLayout());  
-        mainFrame.add(new DateChooserJButton(), java.awt.BorderLayout.CENTER);  
-  
-        Toolkit kit = Toolkit.getDefaultToolkit();  
-        Dimension screenSize = kit.getScreenSize();  
-        int width = (int) screenSize.getWidth();  
-        int height = (int) screenSize.getHeight();  
-        int w = mainFrame.getWidth();  
-        int h = mainFrame.getHeight();  
-        mainFrame.setLocation((width - w) / 2, (height - h) / 2);  
-  
-        mainFrame.setVisible(true);  
-    }  
+//    public static void main(String[] args) {  
+//        JFrame mainFrame = new JFrame("测试");  
+//        mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
+//        mainFrame.setSize(300, 300);  
+//        mainFrame.setLayout(new java.awt.BorderLayout());  
+//        mainFrame.add(new DateChooserJButton(), java.awt.BorderLayout.CENTER);  
+//  
+//        Toolkit kit = Toolkit.getDefaultToolkit();  
+//        Dimension screenSize = kit.getScreenSize();  
+//        int width = (int) screenSize.getWidth();  
+//        int height = (int) screenSize.getHeight();  
+//        int w = mainFrame.getWidth();  
+//        int h = mainFrame.getHeight();  
+//        mainFrame.setLocation((width - w) / 2, (height - h) / 2);  
+//  
+//        mainFrame.setVisible(true);  
+//    }  
 }  

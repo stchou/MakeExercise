@@ -1,0 +1,759 @@
+﻿微信消息记录     导出时间:2016-12-18 21:15:44
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+ID                            时间                     联系人                   状态                类型                消息
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+2215573545@chatroom           2016-12-08 14:13:52                               接收                系统消息            "194-JH2016JC"邀请你加入了群聊，群聊参与人还有：017-梁文彦、083-艾清、016-张敏仪👑、088-真得意、厌世小猪、197-『猪头』不是猪、℡♥小玲子、110-江涛骇浪、123-Jory王、星、023-雕刻时光、061-Gmer 💋、244-小男孩飞向中南海🇨🇳、上海金桥～百合燕燕、111-塔雅、101-秦晋、118-云南元阳跑友张笠、阿星、070-期待的使者、241-Dr.PP、003-itony、093-crazy、239-过期不候、170-晒干的桔子皮、078-放牛娃、021-小宝、161-@(ㅎ︵ㅎ)@、157-liuxiangguo、092-ZHOUG、186-沂顾、144-2016跑起来🏃、053-赵浩zz、013-云层上的阳光、068-Die alone、243-水鸟飞鱼💤、131-Kenzi、246-娜娜、190-凌志、呼哈哈、133-慢慢慢-学生、199-董晓文、056-刀刀的罗马行～闫凤越、007-Pauline媛-美团、234-大熊、245-霍志斌、057-燕子、163-凉了剩下的心、032-大头姑娘💍、050-麦子、080-喜大普奔奔、150-鱼的、203-CH、090-Mr.Xu、叶知秋、062-筱、153-NovaUnited-大之Jagger、122-余弦、009-King／Sky Jin、075-龙萌-小潇、002-丶天、031-E.T-Koo、182-庄小庄、106-张韵、135-tuberadio、215-lv_w🔞、240-快乐平方、008-啵妞💋、164-恬花花～、112-@蔡、030-TRY、044-王小花、064-张海军、201-海龙、全荣、145- 小胡胡、qihoo360，尤宏波小猪猪、217-Judy、119-两米六的乔巴Pan、200-ZR、192-溜溜、224-个人信息、159-单单、024-尐。向日葵Dēぃ微笑ζ、018-北漂周、049-西土瓦、089-゛刂彐阝急メ『破军』、108-Danst、127-大肘棒、059-安静、029-30迈官方微博-刚子、158-图腾、147-黄可以、219-^O^claire、040-王冰玲、173-Holi、220-阿当、196-子皿、022-诗晨(・ω・)ノ、067-李晓伟、欧大大、205-逗比男神、玲子、077-微醉蔷薇、188-远新、198-Tina、174-安、154-king、126-三少、105-七七_seven、195-李建国、058-王瑞、020-三江小渡、166-人鱼线怎么练、041-ZPLUS吉卜吉卜-设计、120-Avenue、086-素安。、178-崔小小、097-小林、025-苏良义、183-littletwo、095-不想说话、035-孙超、231-豆、048-上善若水、237-向远方、226-六呎㭍吋🔔、102-Hui
+2215573545@chatroom           2016-12-08 14:14:17      塔雅                     接收                文本                欢迎大王回归
+2215573545@chatroom           2016-12-08 14:14:27      JH2016JC                 接收                文本                😄😄😄
+2215573545@chatroom           2016-12-08 14:14:48      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:14:57      JH2016JC                 接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000034701201612087052842614014&ver=6&sign=18b55986fef05347e9ed96bd5171ab3bd347bcffdc29cfb608af78ceafc73b292d60119dbf29efbcb14c0b5acb8aafc9e5d325dc4c8fa2fbd23e585d2203315bc86b7c3c25fc2355cd70a73654990a521c4f3fb7cc18e047ee9de82f0e0bb2f3
+2215573545@chatroom           2016-12-08 14:16:09      李晓伟                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:16:21      大头姑娘💍             接收                文本                欢迎
+2215573545@chatroom           2016-12-08 14:16:32      我                       发送                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&amp;msgtype=1&amp;channelid=1&amp;sendid=1000038301201612087053011594171
+2215573545@chatroom           2016-12-08 14:16:36      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  194-JH2016JC领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:37      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  003-itony领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:40      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了194-JH2016JC的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000034701201612087052842614014&sign=18b55986fef05347e9ed96bd5171ab3bd347bcffdc29cfb608af78ceafc73b292d60119dbf29efbcb14c0b5acb8aafc9e5d325dc4c8fa2fbd23e585d2203315bc86b7c3c25fc2355cd70a73654990a521c4f3fb7cc18e047ee9de82f0e0bb2f3&ver=6">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:42      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  025-苏良义领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:46      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  067-李晓伟领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:47      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了自己发的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171&sign=&ver=0">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:49      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  158-图腾领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:50      JH2016JC                 接收                文本                [亲亲][亲亲][亲亲]
+2215573545@chatroom           2016-12-08 14:16:51      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  201-海龙领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:52      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  110-江涛骇浪领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:58      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  009-King／Sky Jin领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:16:59      远行                     接收                文本                欢迎
+2215573545@chatroom           2016-12-08 14:17:07      King／SkyJin             接收                文本                怎么走了
+2215573545@chatroom           2016-12-08 14:17:14      我                       发送                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:17:15      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  161-@(ㅎ︵ㅎ)@领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:17:27      @(*¯﹀¯*)                接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:17:37      JH2016JC                 接收                文本                这段时间没练的自己发红包[阴险][阴险]
+2215573545@chatroom           2016-12-08 14:17:51      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:17:55      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  199-董晓文领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:18:02      @(*¯﹀¯*)                接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:18:11      董晓文                   接收                文本                欢迎归来
+2215573545@chatroom           2016-12-08 14:18:14      董晓文                   接收                文本                [呲牙]
+2215573545@chatroom           2016-12-08 14:18:32      JH2016JC                 接收                文本                抢了我红包的也自觉发一个红包欢迎大王[阴险][阴险][阴险]
+2215573545@chatroom           2016-12-08 14:19:20      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  122-余弦领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:19:23      我                       发送                文本                留下的都是真爱啊[捂脸][机智]
+2215573545@chatroom           2016-12-08 14:19:31      李晓伟                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000040801201612087053412840745&ver=6&sign=2ab978ecfcc9670e1803e27adba11ea4bb7f1b8164f85122cb79f0753c8a4dc9edab1b11f5e8b792da717c4672aff88eda25e1c7b62ad8c2f6e9528e4246e8614f0b592d0f4a314309107462651fcfb71a25132584c0f081fb20a76f7552116e
+2215573545@chatroom           2016-12-08 14:19:52      King／SkyJin             接收                文本                欢迎
+2215573545@chatroom           2016-12-08 14:19:59      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了067-李晓伟的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000040801201612087053412840745&sign=2ab978ecfcc9670e1803e27adba11ea4bb7f1b8164f85122cb79f0753c8a4dc9edab1b11f5e8b792da717c4672aff88eda25e1c7b62ad8c2f6e9528e4246e8614f0b592d0f4a314309107462651fcfb71a25132584c0f081fb20a76f7552116e&ver=6">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:20:37      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  220-阿当领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:21:05      我                       发送                文本                继续坚持健身[耶]晚上去跑步
+2215573545@chatroom           2016-12-08 14:21:09      我                       发送                文本                [嘿哈]
+2215573545@chatroom           2016-12-08 14:21:15      JH2016JC                 接收                文本                @BadGirl [呲牙]
+2215573545@chatroom           2016-12-08 14:21:19      @(*¯﹀¯*)                接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:21:28      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:22:18      李晓伟                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:22:54      单🐾单🍀             接收                文本                哇哦
+2215573545@chatroom           2016-12-08 14:23:03      我                       发送                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 14:23:13      JH2016JC                 接收                文本                @BadGirl 大王，我要先搬砖去了
+2215573545@chatroom           2016-12-08 14:23:14      单🐾单🍀             接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:23:17      JH2016JC                 接收                文本                哈哈哈
+2215573545@chatroom           2016-12-08 14:23:20      我                       发送                文本                谢谢亲们的礼物
+2215573545@chatroom           2016-12-08 14:23:24      JH2016JC                 接收                文本                真买了
+2215573545@chatroom           2016-12-08 14:23:34      我                       发送                文本                终于长出了一颗
+2215573545@chatroom           2016-12-08 14:23:35      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  017-梁文彦领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:23:46      我                       发送                文本                好Q
+2215573545@chatroom           2016-12-08 14:23:47      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  159-单单领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:24:00      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  032-大头姑娘💍领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:24:15      JH2016JC                 接收                文本                @BadGirl 应该是塔雅和小苏的好主意
+2215573545@chatroom           2016-12-08 14:24:58      JH2016JC                 接收                文本                好Q[憨笑]，大王好好养好这棵小苗
+2215573545@chatroom           2016-12-08 14:25:44      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  030-TRY领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:26:43      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  083-艾清领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:27:33      江涛骇浪                 接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000040101201612087054411328270&ver=6&sign=a4bf94953f2da8900bfcb25b0e4f344b54d90f1f70cdd5aa58e90cec54227ab42d2bdbd038ee438946e44e26a12526e6466b60ac636bf4ec1b80abbe02d48290a7c2ca3d403a7df1538aff442eda67d3118a78067dcdc990db6cbee3ed52f339
+2215573545@chatroom           2016-12-08 14:28:07      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了110-江涛骇浪的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000040101201612087054411328270&sign=a4bf94953f2da8900bfcb25b0e4f344b54d90f1f70cdd5aa58e90cec54227ab42d2bdbd038ee438946e44e26a12526e6466b60ac636bf4ec1b80abbe02d48290a7c2ca3d403a7df1538aff442eda67d3118a78067dcdc990db6cbee3ed52f339&ver=6">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:28:17      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  068-Die alone领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:29:22      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  244-小男孩飞向中南海🇨🇳领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:31:15      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  133-慢慢慢-学生领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:33:21      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  190-凌志领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:33:23      慢呆                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:35:42      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  090-Mr.Xu领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:35:52      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  102-Hui领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:38:13      苏良义                   接收                文本                女神，你终于回来了呀
+2215573545@chatroom           2016-12-08 14:38:25      苏良义                   接收                文本                三顾茅庐，不容易呀
+2215573545@chatroom           2016-12-08 14:38:51      于潇                     接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000036601201612087055841639439&ver=6&sign=1a6adf99be05d669c4844173bdacd316be45af3b442e9b48939cedcfb915600ed1ffc2a22c7502c580fe10d5a312b1b09846e374fd8f6d91844c94994cb4799ab0501efa330c3c180ce39643ed4bef42d1659e8b7fb8bb2079821a81475a76fe
+2215573545@chatroom           2016-12-08 14:39:36      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了122-余弦的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000036601201612087055841639439&sign=1a6adf99be05d669c4844173bdacd316be45af3b442e9b48939cedcfb915600ed1ffc2a22c7502c580fe10d5a312b1b09846e374fd8f6d91844c94994cb4799ab0501efa330c3c180ce39643ed4bef42d1659e8b7fb8bb2079821a81475a76fe&ver=6">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:39:37      @(*¯﹀¯*)                接收                文本                应该要发个生活照给大伙看看[捂脸]。。。。
+2215573545@chatroom           2016-12-08 14:39:52      江涛骇浪                 接收                文本                @苏州～小张 [强][强][强]
+2215573545@chatroom           2016-12-08 14:40:51      苏良义                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 14:40:56      苏良义                   接收                文本                [捂脸][捂脸][捂脸]
+2215573545@chatroom           2016-12-08 14:42:03      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  049-西土瓦领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:44:36      海龙                     接收                文本                这么可爱一定是个男孩子
+2215573545@chatroom           2016-12-08 14:44:41      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  077-微醉蔷薇领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 14:45:10      小男孩飞向中南海🇨�   接收                文本                你确定？@海龙 
+2215573545@chatroom           2016-12-08 14:45:13      苏良义                   接收                文本                我的女神
+2215573545@chatroom           2016-12-08 14:45:20      苏良义                   接收                文本                怎么可能是男孩子
+2215573545@chatroom           2016-12-08 14:45:58      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 14:46:12      单🐾单🍀             接收                文本                大王得萌照
+2215573545@chatroom           2016-12-08 14:46:34      @(*¯﹀¯*)                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 14:47:01      @(*¯﹀¯*)                接收                文本                男孩子[耶]
+2215573545@chatroom           2016-12-08 14:47:24      微醉蔷薇                 接收                文本                欢迎归来
+2215573545@chatroom           2016-12-08 14:47:31      微醉蔷薇                 接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 15:02:56      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  245-霍志斌领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 15:03:16      斌                       接收                文本                [呲牙]
+2215573545@chatroom           2016-12-08 15:04:06      斌                       接收                文本                有的时候，就是一种习惯，比如再遇旧友！欢迎！
+2215573545@chatroom           2016-12-08 15:04:41      斌                       接收                文本                今晚没有借口不锻炼了[呲牙]
+2215573545@chatroom           2016-12-08 15:04:48      我                       发送                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 15:08:57      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  205-逗比男神领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 15:09:12      凌志                     接收                文本                欢迎大王回来啊
+2215573545@chatroom           2016-12-08 15:12:08      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  020-三江小渡领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 15:12:41      三江小渡                 接收                文本                大王回来了啊
+2215573545@chatroom           2016-12-08 15:12:50      三江小渡                 接收                文本                [奸笑]
+2215573545@chatroom           2016-12-08 15:15:09      Holi                     接收                文本                大王回来了😄
+2215573545@chatroom           2016-12-08 15:20:10      大肘棒                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000040801201612087061002879606&ver=6&sign=f51f9f9157ac085814422634a0c6f40b889b1555e1b396b711e904adfa1a450061d247b76eb0f0aad5ce323abbca70f5ae94951e3d395c224cb247dca58353f147303bb629024d5b1b1099a9b31150c3c2bbdbe21a3a394860ef030fe5c5b885
+2215573545@chatroom           2016-12-08 15:21:34      lv_w🔞                 接收                文本                [胜利][胜利][胜利]
+2215573545@chatroom           2016-12-08 15:23:41      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  你领取了127-大肘棒的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000040801201612087061002879606&sign=f51f9f9157ac085814422634a0c6f40b889b1555e1b396b711e904adfa1a450061d247b76eb0f0aad5ce323abbca70f5ae94951e3d395c224cb247dca58353f147303bb629024d5b1b1099a9b31150c3c2bbdbe21a3a394860ef030fe5c5b885&ver=6">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 15:29:23      酒久                     接收                文本                欢迎大王回来
+2215573545@chatroom           2016-12-08 15:41:04      小胡                     接收                文本                
+2215573545@chatroom           2016-12-08 15:48:23      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  174-安领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 16:24:00      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  百合燕燕领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 16:25:15      百合燕燕                 接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:35:28      苏良义                   接收                文本                大王有时间吃饭么
+2215573545@chatroom           2016-12-08 16:45:02      我                       发送                文本                今天不行啊，约人跑步去了
+2215573545@chatroom           2016-12-08 16:46:32      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:47:09      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:47:34      苏良义                   接收                文本                男的女的
+2215573545@chatroom           2016-12-08 16:47:47      我                       发送                文本                姑娘啊
+2215573545@chatroom           2016-12-08 16:47:55      我                       发送                文本                单身哦
+2215573545@chatroom           2016-12-08 16:48:01      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:48:04      我                       发送                文本                大数据的
+2215573545@chatroom           2016-12-08 16:48:13      苏良义                   接收                文本                没见过
+2215573545@chatroom           2016-12-08 16:48:24      苏良义                   接收                文本                大数据的妹子你也勾搭上了
+2215573545@chatroom           2016-12-08 16:50:57      Mr.Xu                    接收                文本                大数据好厉害啊
+2215573545@chatroom           2016-12-08 16:51:51      海龙                     接收                文本                听说今年大数据新人都15K起步
+2215573545@chatroom           2016-12-08 16:51:55      苏良义                   接收                文本                还在33层么，回头介绍我认识一下，啥时候来的，在500人群里面么？
+2215573545@chatroom           2016-12-08 16:52:19      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:52:36      慢呆                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:52:37      苏良义                   接收                文本                真的假的
+2215573545@chatroom           2016-12-08 16:53:03      苏良义                   接收                文本                你确定这么高
+2215573545@chatroom           2016-12-08 16:53:07      苏良义                   接收                文本                能转行么
+2215573545@chatroom           2016-12-08 16:53:15      海龙                     接收                文本                未经考证  反正是挺火的
+2215573545@chatroom           2016-12-08 16:53:37      远行                     接收                文本                【打卡】有氧40分钟，腹部25分钟
+2215573545@chatroom           2016-12-08 16:53:59      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:54:01      海龙                     接收                文本                再转就晚了 做这个的人多了
+2215573545@chatroom           2016-12-08 16:54:37      海龙                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 16:54:38      苏良义                   接收                文本                还是去迪拜要饭去吧
+2215573545@chatroom           2016-12-08 16:55:59      我                       发送                文本                求带
+2215573545@chatroom           2016-12-08 16:56:02      我                       发送                文本                要饭
+2215573545@chatroom           2016-12-08 16:57:11      三少                     接收                文本                求带
+2215573545@chatroom           2016-12-08 16:58:34      北漂周                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000036501201612087073121803670&ver=6&sign=3c6d8f1b6cfd5d6b19b15f2298379d939cd4faaf44dd2dc45da540a0d8e79c33c50f1147e369ddf14095a47e74082df4c9f4536fd790760d3b8ca9fe1f5d4ffc2737edb8142cc7d3b965d39ec9090b669ae1c4750ab1f0c6ea32dc8735bea9e4
+2215573545@chatroom           2016-12-08 17:03:55      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 17:04:18      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 17:04:23      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 17:41:52      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  163-凉了剩下的心领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 18:42:27      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  111-塔雅领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 18:49:14      塔雅                     接收                文本                @BadGirl 这么长时间了，才长了一课[傲慢]还有其他配件呢！你敢吧那句话漏出来不！！！
+2215573545@chatroom           2016-12-08 18:49:33      江涛骇浪                 接收                文本                【打卡】跑步+33分钟
+2215573545@chatroom           2016-12-08 18:49:34      江涛骇浪                 接收                网页                我用 悦跑圈 跑了6.00公里
+                                                                                          http://sharesdk.thejoyrun.com/1NrKqI
+2215573545@chatroom           2016-12-08 18:50:11      苏良义                   接收                文本                什么情况
+2215573545@chatroom           2016-12-08 18:50:28      苏良义                   接收                文本                我的好奇心上来了
+2215573545@chatroom           2016-12-08 18:50:33      苏良义                   接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 18:59:25      塔雅                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 19:00:32      塔雅                     接收                文本                感觉今天下午开会错过了好多
+2215573545@chatroom           2016-12-08 19:08:14      林行                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-08 19:08:28      林行                     接收                文本                欢迎大王归来！
+2215573545@chatroom           2016-12-08 19:09:01      林行                     接收                文本                终于又有组织了[呲牙]
+2215573545@chatroom           2016-12-08 19:11:53      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  112-@蔡领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 19:17:26      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  120-Avenue领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 20:02:55      单🐾单🍀             接收                文本                【打卡】瑜伽45分钟
+2215573545@chatroom           2016-12-08 20:03:07      单🐾单🍀             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 20:03:12      安静                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 20:03:25      安静                     接收                文本                【打卡】keep 33分钟
+2215573545@chatroom           2016-12-08 20:05:46      秦晋                     接收                文本                【打卡】跑步五公里27分钟
+2215573545@chatroom           2016-12-08 20:16:10      秦晋                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 20:17:57      我                       发送                文本                【打卡】跑步+60min
+2215573545@chatroom           2016-12-08 20:18:00      我                       发送                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 20:18:51      蔡志强                   接收                文本                @BadGirl 刚看见大王回来
+2215573545@chatroom           2016-12-08 20:19:03      我                       发送                文本                耳朵要冻坏了
+2215573545@chatroom           2016-12-08 20:19:09      蔡志强                   接收                文本                今天跑小怪兽啦，厉害
+2215573545@chatroom           2016-12-08 20:19:21      我                       发送                文本                哈哈
+2215573545@chatroom           2016-12-08 20:19:33      我                       发送                文本                好久没跑还不错
+2215573545@chatroom           2016-12-08 20:20:49      蔡志强                   接收                文本                你走后我就一直没运动，网校学习，外出学习培训，到月底，我也许久未跑了
+2215573545@chatroom           2016-12-08 20:21:20      我                       发送                文本                重启搞起来
+2215573545@chatroom           2016-12-08 20:21:22      我                       发送                文本                哈哈
+2215573545@chatroom           2016-12-08 20:21:30      秦晋                     接收                文本                [鼓掌][鼓掌][鼓掌]
+2215573545@chatroom           2016-12-08 20:21:39      秦晋                     接收                文本                欢迎大王[鼓掌][鼓掌]
+2215573545@chatroom           2016-12-08 20:23:00      苏良义                   接收                文本                么么哒
+2215573545@chatroom           2016-12-08 20:23:28      蔡志强                   接收                文本                下周去上海，准备跑跑外滩
+2215573545@chatroom           2016-12-08 20:29:16      梁文彦                   接收                文本                @BadGirl 咦，大王路过我家
+2215573545@chatroom           2016-12-08 20:36:49      沂顾                     接收                文本                【打卡】瑜伽40min
+2215573545@chatroom           2016-12-08 20:36:58      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 20:38:55      我                       发送                文本                @梁文彦 给我订个点，回头跑饿了去你家吃饭[捂脸]
+2215573545@chatroom           2016-12-08 20:45:20      小男孩飞向中南海🇨�   接收                文本                还吃呢
+2215573545@chatroom           2016-12-08 20:46:42      梁文彦                   接收                文本                @BadGirl 来来
+2215573545@chatroom           2016-12-08 20:55:58      emMessages_HongbaoIcon.png接收                系统消息            <img src="SystemMessages_HongbaoIcon.png"/>  105-七七_seven领取了你的<_wc_custom_link_ color="#FD9931" href="weixin://weixinhongbao/opendetail?sendid=1000038301201612087053011594171">红包</_wc_custom_link_>
+2215573545@chatroom           2016-12-08 21:06:09      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 21:06:10      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 21:06:11      董晓文                   接收                文本                我只想截个图。。。
+2215573545@chatroom           2016-12-08 21:06:12      董晓文                   接收                文本                看图
+2215573545@chatroom           2016-12-08 21:06:13      董晓文                   接收                文本                [偷笑][偷笑]
+2215573545@chatroom           2016-12-08 21:13:04      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 21:13:46      JH2016JC                 接收                文本                【打卡】keep 29分钟＋游泳30分钟
+2215573545@chatroom           2016-12-08 21:44:12      微醉蔷薇                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 21:44:38      微醉蔷薇                 接收                文本                【打卡】keep 37分钟
+2215573545@chatroom           2016-12-08 22:02:15      Dr.PP                    接收                文本                【打卡】无氧胸部肱三头肌70分钟
+2215573545@chatroom           2016-12-08 22:11:01      塔雅                     接收                文本                【打卡】keep+健身房 120min
+2215573545@chatroom           2016-12-08 22:11:11      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 22:11:12      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 22:12:33      我                       发送                文本                最近玩得很嗨吖
+2215573545@chatroom           2016-12-08 22:12:40      我                       发送                文本                塔雅小盆友
+2215573545@chatroom           2016-12-08 22:13:19      塔雅                     接收                文本                还可以，不能丢了咱们队伍的脸是吧[愉快]
+2215573545@chatroom           2016-12-08 22:13:35      三江小渡                 接收                文本                点赞
+2215573545@chatroom           2016-12-08 22:14:50      塔雅                     接收                文本                @BadGirl 那天约你去馆里玩耍啊！你有时间吗？
+2215573545@chatroom           2016-12-08 22:15:21      我                       发送                文本                好呀
+2215573545@chatroom           2016-12-08 22:15:32      我                       发送                文本                在哪，你家附近吗
+2215573545@chatroom           2016-12-08 22:17:47      塔雅                     接收                文本                就在E世界那，你认识吧？
+2215573545@chatroom           2016-12-08 22:20:51      海龙                     接收                文本                中关村？
+2215573545@chatroom           2016-12-08 22:22:01      塔雅                     接收                文本                是啊
+2215573545@chatroom           2016-12-08 22:22:07      塔雅                     接收                文本                你也很近吗？
+2215573545@chatroom           2016-12-08 22:26:59      远新                     接收                文本                【打卡】keep 93mins
+2215573545@chatroom           2016-12-08 22:27:00      远新                     接收                网页                
+2215573545@chatroom           2016-12-08 22:27:01      斌                       接收                文本                【打卡】keep 14 分钟
+2215573545@chatroom           2016-12-08 22:27:10      斌                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-08 22:29:24      　                       接收                文本                【打卡】keep51分钟
+2215573545@chatroom           2016-12-08 22:29:40      　                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 06:20:15      JH2016JC                 接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-09 06:20:31      塔雅                     接收                文本                早
+2215573545@chatroom           2016-12-09 06:21:02      JH2016JC                 接收                文本                大土豪早[呲牙]
+2215573545@chatroom           2016-12-09 06:21:41      塔雅                     接收                文本                翔妈在和谁打招呼
+2215573545@chatroom           2016-12-09 06:22:04      JH2016JC                 接收                文本                你呀
+2215573545@chatroom           2016-12-09 06:22:20      塔雅                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-09 06:25:25      JH2016JC                 接收                文本                @北京海淀 ～塔雅 塔雅你昨天照片上有个大胸美女
+2215573545@chatroom           2016-12-09 06:29:25      塔雅                     接收                文本                那个啊
+2215573545@chatroom           2016-12-09 07:01:18      林行                     接收                文本                早
+2215573545@chatroom           2016-12-09 07:06:23      微醉蔷薇                 接收                文本                早[愉快]
+2215573545@chatroom           2016-12-09 07:45:39      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 07:45:54      JH2016JC                 接收                文本                【打卡】keep28分钟
+2215573545@chatroom           2016-12-09 07:51:50      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 08:15:36      塔雅                     接收                文本                @浙江～翔妈 你又馋人了
+2215573545@chatroom           2016-12-09 11:52:19      大肘棒                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 11:52:39      大肘棒                   接收                文本                【打卡】跑步+59分钟
+2215573545@chatroom           2016-12-09 17:39:53      Judy                     接收                文本                【打卡】健身房背加核心70分钟
+2215573545@chatroom           2016-12-09 17:40:06      Judy                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 19:16:50      安静                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 19:17:06      安静                     接收                文本                【打卡】keep 35分钟
+2215573545@chatroom           2016-12-09 20:05:10      董晓文                   接收                文本                【打卡】跑步＋30分钟
+2215573545@chatroom           2016-12-09 20:05:11      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 20:21:54      沂顾                     接收                文本                【打卡】跑步25min+21min+手臂20min
+2215573545@chatroom           2016-12-09 20:22:04      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 21:16:28      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 21:16:55      JH2016JC                 接收                文本                【打卡】keep 59分钟
+2215573545@chatroom           2016-12-09 21:21:20      过期不候                 接收                文本                翔妈阿姨好
+2215573545@chatroom           2016-12-09 21:29:36      king                     接收                文本                大家好
+2215573545@chatroom           2016-12-09 21:30:06      king                     接收                文本                我问个问题行吗
+2215573545@chatroom           2016-12-09 21:30:30      king                     接收                文本                咱群里现在的群主是谁？
+2215573545@chatroom           2016-12-09 21:30:47      king                     接收                文本                还是大王吗
+2215573545@chatroom           2016-12-09 21:31:16      苏良义                   接收                文本                群主不是呀
+2215573545@chatroom           2016-12-09 21:31:33      苏良义                   接收                文本                群主是微信第一个人
+2215573545@chatroom           2016-12-09 21:33:14      king                     接收                文本                那我们大王呢[惊恐]
+2215573545@chatroom           2016-12-09 21:36:59      斌                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 21:37:38      斌                       接收                文本                【打卡】keep 24 分钟 
+2215573545@chatroom           2016-12-09 21:49:31      JH2016JC                 接收                文本                @~~👏过期不候~~학생 [拥抱]刘鑫回来了
+2215573545@chatroom           2016-12-09 21:49:42      过期不候                 接收                文本                嗯
+2215573545@chatroom           2016-12-09 21:49:51      过期不候                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 21:53:20      Aquarius-佳佳🌸        接收                文本                已经好久没动了
+2215573545@chatroom           2016-12-09 22:10:14      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-09 22:10:48      Dr.PP                    接收                文本                【打卡】无氧器械腿部臀部训练70分钟
+2215573545@chatroom           2016-12-09 22:56:54      　                       接收                文本                【打卡】keep56分钟
+2215573545@chatroom           2016-12-09 22:57:06      　                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 00:16:05      塔雅                     接收                文本                【打卡】健身房 120min
+2215573545@chatroom           2016-12-10 00:16:32      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 08:15:15      littletwo                接收                文本                【打卡】跑步40分钟
+2215573545@chatroom           2016-12-10 08:15:24      littletwo                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 09:27:38      我                       发送                文本                  @北京海淀 ～塔雅 你的造型最酷[偷笑]
+2215573545@chatroom           2016-12-10 10:16:04      塔雅                     接收                文本                左拥右抱是吧[偷笑][偷笑][偷笑]
+2215573545@chatroom           2016-12-10 10:18:13      苏良义                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 12:36:51      玲子                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 12:37:11      玲子                     接收                文本                【打卡】跑步140分钟
+2215573545@chatroom           2016-12-10 13:09:06      liuxiangguo              接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 13:09:07      liuxiangguo              接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 13:09:29      liuxiangguo              接收                文本                【打卡】跑步30分钟,羽毛球60分钟
+2215573545@chatroom           2016-12-10 15:06:33      JH2016JC                 接收                网页                2016厦门（海沧）国际半程马拉松赛组委会公告
+                                                                                          http://www.xmhaicangmarathon.com/mrms-web/homes/clomunDetails.html?color=1&amp;imgDocId=8aadb01b58e6cc220158e764ad99003f&amp;from=groupmessage&amp;isappinstalled=0
+2215573545@chatroom           2016-12-10 15:08:29      <?xml version="1.0"?>    接收                小视频              [小视频]
+2215573545@chatroom           2016-12-10 15:11:28      远新                     接收                文本                明天有跑广马的吗？
+2215573545@chatroom           2016-12-10 15:21:18      蔡志强                   接收                文本                冬季长跑更得注意了呀
+2215573545@chatroom           2016-12-10 15:37:20      期待使者                 接收                文本                @广州～远新 哪里[难过]
+2215573545@chatroom           2016-12-10 15:39:15      远新                     接收                文本                就是翔妈发的，今天的厦门海沧半马
+2215573545@chatroom           2016-12-10 15:42:37                               接收                系统消息            "于潇" 撤回了一条消息
+2215573545@chatroom           2016-12-10 16:30:50      梁文彦                   接收                文本                去世了两个
+2215573545@chatroom           2016-12-10 16:32:03      过期不候                 接收                文本                唉
+2215573545@chatroom           2016-12-10 16:32:23      过期不候                 接收                文本                这就是不做准备的后果
+2215573545@chatroom           2016-12-10 16:32:39      过期不候                 接收                文本                后人引以为戒[发呆][发呆]
+2215573545@chatroom           2016-12-10 16:33:42      kenzi                    接收                文本                运动是让人变的更好不是让人， ：
+2215573545@chatroom           2016-12-10 16:33:54      kenzi                    接收                文本                真要注意
+2215573545@chatroom           2016-12-10 16:34:23      塔雅                     接收                文本                哎
+2215573545@chatroom           2016-12-10 16:36:47      远新                     接收                文本                可怕的不是马拉松，而是那些不做准备跑马的人
+2215573545@chatroom           2016-12-10 18:14:04      小男孩飞向中南海🇨�   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 18:15:07      小男孩飞向中南海🇨�   接收                文本                【打卡】羽毛球120min
+2215573545@chatroom           2016-12-10 18:16:55      林行                     接收                文本                【打卡】跑步+18min
+2215573545@chatroom           2016-12-10 18:17:00      林行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 18:51:51      江涛骇浪                 接收                文本                【打卡】跑步+33min
+2215573545@chatroom           2016-12-10 18:51:53      江涛骇浪                 接收                网页                我用 悦跑圈 跑了6.00公里
+                                                                                          http://wap.thejoyrun.com/po_11574120_93354511.html
+2215573545@chatroom           2016-12-10 19:59:30      Dr.PP                    接收                文本                【打卡】爬山啦，好几个小时[Hey]
+2215573545@chatroom           2016-12-10 19:59:41      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 19:59:42      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 20:09:12      塔雅                     接收                文本                这是哪啊？
+2215573545@chatroom           2016-12-10 20:10:33      Dr.PP                    接收                文本                覆卮山 在上海余姚附近
+2215573545@chatroom           2016-12-10 20:22:44      沂顾                     接收                文本                【打卡】跑步20min+核心20min+单车40min
+2215573545@chatroom           2016-12-10 20:23:03      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 21:44:29      云层上的阳光             接收                文本                【打卡】keep39分钟
+2215573545@chatroom           2016-12-10 21:44:30      云层上的阳光             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 21:57:17      斌                       接收                文本                【打卡】keep 22 分钟
+2215573545@chatroom           2016-12-10 21:57:34      斌                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 21:59:28      斌                       接收                文本                @Dr.PP [强]
+2215573545@chatroom           2016-12-10 22:30:01      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 22:30:15      JH2016JC                 接收                文本                【打卡】keep 16分钟
+2215573545@chatroom           2016-12-10 22:38:01      向远方                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 22:38:24      向远方                   接收                文本                【打卡】跑步40分钟
+2215573545@chatroom           2016-12-10 22:40:24      期待使者                 接收                网页                
+                                                                                          
+2215573545@chatroom           2016-12-10 22:40:37      期待使者                 接收                文本                【打卡】跑步155分钟
+2215573545@chatroom           2016-12-10 23:51:02      @(*¯﹀¯*)                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-10 23:51:28      @(*¯﹀¯*)                接收                文本                【打卡】跑步90分钟
+2215573545@chatroom           2016-12-11 07:22:23      董晓文                   接收                文本                【打卡】跑步＋30分钟
+2215573545@chatroom           2016-12-11 07:23:12      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 08:38:02      沂顾                     接收                文本                【打卡】跑步50min
+2215573545@chatroom           2016-12-11 08:38:11      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 08:39:15      董晓文                   接收                网页                我刚刚在 Keep 分享了自己的健身动态，快来看看吧
+                                                                                          https://show.gotokeep.com/entries/584c9f8819b6fc1e92cb3b9b?utm_source=WeChat&amp;utm_medium=Android
+2215573545@chatroom           2016-12-11 08:52:55      丶天                     接收                网页                2017成都双遗马拉松
+                                                                                          http://www.shuang-la.com/Wechat/LoginRoute?view=group/detail-activity-view&amp;module=group&amp;args=a3ff32ae-73b8-470f-823c-35effb10d4f3,f134da82-3100-4390-9b32-fe71005b4c4a
+2215573545@chatroom           2016-12-11 11:08:43      期待使者                 接收                网页                我为善而跑2.11公里，中国马拉松队官方使用APP！
+                                                                                          http://wap.myrunners.com/wap.php/Motion/motionShare?motion_id=84699782
+2215573545@chatroom           2016-12-11 11:09:02      期待使者                 接收                文本                【打卡】跑步15分钟
+2215573545@chatroom           2016-12-11 12:59:44      秦晋                     接收                文本                【打卡】骑车33公里，1.5小时
+2215573545@chatroom           2016-12-11 13:39:41      Mr.Xu                    接收                文本                【打卡】打篮球 120min
+2215573545@chatroom           2016-12-11 13:39:56      Mr.Xu                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 18:30:57      安静                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 18:31:32      安静                     接收                文本                【打卡】keep  33min
+2215573545@chatroom           2016-12-11 20:21:27      江涛骇浪                 接收                文本                【打卡】自重训练:每组30个深蹲+30个俯卧撑+50个仰卧起坐，循环五组
+2215573545@chatroom           2016-12-11 21:05:39      远新                     接收                文本                【打卡】跑步 130mins
+2215573545@chatroom           2016-12-11 21:05:47      远新                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 21:51:56      我                       发送                文本                预告一下：下周正常统计[嘿哈]
+2215573545@chatroom           2016-12-11 21:52:33      JH2016JC                 接收                文本                本周不统计了
+2215573545@chatroom           2016-12-11 21:52:37      JH2016JC                 接收                文本                @BadGirl [惊讶]
+2215573545@chatroom           2016-12-11 21:52:43      JH2016JC                 接收                文本                大王
+2215573545@chatroom           2016-12-11 21:52:56      我                       发送                文本                这周我就只有两天记录
+2215573545@chatroom           2016-12-11 21:53:01      我                       发送                文本                搞不了啊
+2215573545@chatroom           2016-12-11 21:53:03      JH2016JC                 接收                文本                本周也统计下嘛
+2215573545@chatroom           2016-12-11 21:53:25      林行                     接收                文本                [鼓掌]
+2215573545@chatroom           2016-12-11 21:53:35      JH2016JC                 接收                文本                @BadGirl 大王可以2次，因为大王进得迟
+2215573545@chatroom           2016-12-11 21:53:45      斌                       接收                文本                【打卡】keep  7 min
+2215573545@chatroom           2016-12-11 21:53:49      JH2016JC                 接收                文本                没一周
+2215573545@chatroom           2016-12-11 21:53:54      斌                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 21:54:02      林行                     接收                文本                没事，以后正常就好了[呲牙]
+2215573545@chatroom           2016-12-11 21:54:07      我                       发送                文本                周四之前你们所有记录我都没有啊
+2215573545@chatroom           2016-12-11 21:54:11      我                       发送                文本                [捂脸]
+2215573545@chatroom           2016-12-11 21:54:18      林行                     接收                文本                又有动力了[呲牙]
+2215573545@chatroom           2016-12-11 21:54:49      七七                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-11 21:55:11      JH2016JC                 接收                文本                @BadGirl 哦，是的呢
+2215573545@chatroom           2016-12-11 21:55:44      JH2016JC                 接收                文本                好那下周正常
+2215573545@chatroom           2016-12-11 21:55:51      七七                     接收                文本                【打卡】今天 keep54min + 前几周运动记录
+2215573545@chatroom           2016-12-11 21:56:10      JH2016JC                 接收                文本                本周没完成的自觉[坏笑]
+2215573545@chatroom           2016-12-11 21:56:41      百合燕燕                 接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000033701201612117148502345325&ver=6&sign=0becabfde86d9ac24a2e6084cd9865c10c6f7234b72c0f7a859bd1cbfd77d1041432165c3b1aba31b4a0b7e1e10c8eb2c206a298757313306b6856984fabd4e84b9a0c37610415c4f327d3dbdb2494205a71c484d73012905f11616c8d39b75c
+2215573545@chatroom           2016-12-11 21:57:11      百合燕燕                 接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-11 21:57:19      西土瓦                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000030901201612117148672167292&ver=6&sign=2d22ee4574f291fce9d71a73dd640cceee4454216da896e48fd9d0eb9d80201fc8d7fc2426e99fb90f0273dc5191fad2cec825cf2f36dc14b15d156f6d0c82e16a70b678c5fa0628eba01b09390228e5992a65b2e8c194046b3ab28138f3dd21
+2215573545@chatroom           2016-12-11 21:58:05      百合燕燕                 接收                文本                哇 最后一个好大
+2215573545@chatroom           2016-12-11 21:58:28      酒久                     接收                文本                亲们，北京现在似不似超冷啊？
+2215573545@chatroom           2016-12-11 22:01:54      我                       发送                文本                还好啊
+2215573545@chatroom           2016-12-11 22:02:09      我                       发送                文本                不起风就没感觉
+2215573545@chatroom           2016-12-11 22:03:37      酒久                     接收                文本                [愉快]谢谢老大，那飞北京看看
+2215573545@chatroom           2016-12-11 22:13:52      海龙                     接收                文本                【打卡】keep  63分钟
+2215573545@chatroom           2016-12-11 22:13:56      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 07:07:02      大肘棒                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000036401201612127008202562964&ver=6&sign=0a2ac6315062bd6dbf72a4d5b7a4d11870371349b2c3212b0ea0b7b167205861f4f6a6f73187d8d8ff93e203b8910be7e3f78dfdb9baf60416a0071f0925409a13bf33c310527f902afee16a7d6a5692e27a4485dab62fdb23a443b7a5641e3d
+2215573545@chatroom           2016-12-12 07:16:19      Avenue                   接收                文本                【打卡】Keep＋21mins
+2215573545@chatroom           2016-12-12 07:16:20      Avenue                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 07:31:05      林行                     接收                文本                早
+2215573545@chatroom           2016-12-12 07:59:13      lv_w🔞                 接收                文本                【打卡】补昨天篮球 3小时
+2215573545@chatroom           2016-12-12 10:07:19      Aquarius-佳佳🌸        接收                文本                【请假】原谅我要一直请假到春节了，因为公司是新的，会所也是新的，好多事要做
+2215573545@chatroom           2016-12-12 11:23:34      蔡志强                   接收                文本                【打卡】跑步40min
+2215573545@chatroom           2016-12-12 11:24:18      蔡志强                   接收                网页                
+2215573545@chatroom           2016-12-12 11:33:54      大肘棒                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 11:34:17      大肘棒                   接收                文本                【打卡】健身房跑步+29min
+2215573545@chatroom           2016-12-12 12:29:16      期待使者                 接收                网页                
+                                                                                          
+2215573545@chatroom           2016-12-12 12:29:33      期待使者                 接收                文本                【打卡】跑步66分钟
+2215573545@chatroom           2016-12-12 12:39:54      远行                     接收                文本                【打卡】有氧40分钟，拉伸15分钟
+2215573545@chatroom           2016-12-12 14:48:12      苏良义                   接收                文本                北京那个地方的滑雪比较好
+2215573545@chatroom           2016-12-12 14:48:35      梁文彦                   接收                文本                南山
+2215573545@chatroom           2016-12-12 14:54:55      苏良义                   接收                文本                人多么
+2215573545@chatroom           2016-12-12 14:55:14      苏良义                   接收                文本                当天去的话，大概能玩几个小时
+2215573545@chatroom           2016-12-12 14:56:01      梁文彦                   接收                文本                人很多，如果自己开车的话，开门就去大概玩四五个吧，最后是你自己累了
+2215573545@chatroom           2016-12-12 14:57:46      苏良义                   接收                文本                太远了
+2215573545@chatroom           2016-12-12 14:57:52      苏良义                   接收                文本                南山有点远呀
+2215573545@chatroom           2016-12-12 15:07:08      庄小庄                   接收                网页                微信红包
+                                                                                          https://wxapp.tenpay.com/mmpayhb/wxhb_personalreceive?showwxpaytitle=1&msgtype=1&channelid=1&sendid=1000036401201612127062890146688&ver=6&sign=094e60a372b7a51467f335defb2c301246f50490439080f3e44a47f6f60085c998d32e74167f2aca6fdbce4e1f3a13844b0655c5e86e6a7c795aa3ddb84c238b7fa69d8d61c8f9327c5fbba918129ca66b690d32ea20121fe67b02b03a0c41e2
+2215573545@chatroom           2016-12-12 15:08:06      阿当                     接收                文本                @Judy 差距这么大
+2215573545@chatroom           2016-12-12 15:08:11      Judy                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-12 15:08:33      慢呆                     接收                文本                1.11
+2215573545@chatroom           2016-12-12 15:08:36      Judy                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-12 15:22:22      庄小庄                   接收                文本                [偷笑][偷笑]
+2215573545@chatroom           2016-12-12 15:22:39      庄小庄                   接收                文本                听说@BadGirl 回来了，我也回归
+2215573545@chatroom           2016-12-12 15:55:48      大肘棒                   接收                文本                @北京昌平~小苏 万龙八亿
+2215573545@chatroom           2016-12-12 15:56:07      大肘棒                   接收                文本                很近
+2215573545@chatroom           2016-12-12 15:56:43      苏良义                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 15:56:47      苏良义                   接收                文本                我们打算去这个
+2215573545@chatroom           2016-12-12 19:45:42      芬芳满枝桠😀ོ         接收                文本                【打卡】瑜伽一小时
+2215573545@chatroom           2016-12-12 19:45:45      芬芳满枝桠😀ོ         接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 19:56:45      安静                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 19:57:04      安静                     接收                文本                【打卡】keep 36分钟
+2215573545@chatroom           2016-12-12 21:09:02      沂顾                     接收                文本                【打卡】跑步15min+单车40min+静蹲10min
+2215573545@chatroom           2016-12-12 21:09:10      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 21:29:29      李晓伟                   接收                文本                【打卡】健身房+90分钟
+2215573545@chatroom           2016-12-12 22:32:30      我                       发送                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 22:32:49      我                       发送                文本                【打卡】塑背+腹肌撕裂 24min
+2215573545@chatroom           2016-12-12 22:33:53      七七                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 22:34:07      七七                     接收                文本                【打卡】keep 73min
+2215573545@chatroom           2016-12-12 22:36:11      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 22:36:12      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 22:36:32      塔雅                     接收                文本                【打卡】羽毛球+keep 200min
+2215573545@chatroom           2016-12-12 23:11:54      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-12 23:12:10      JH2016JC                 接收                文本                【打卡】keep27min
+2215573545@chatroom           2016-12-13 07:07:23      蔡志强                   接收                文本                【打卡】跑步23min
+2215573545@chatroom           2016-12-13 07:07:24      蔡志强                   接收                网页                @蔡的跑步打卡
+                                                                                          http://mi.mixpay.cn/app/#/detail/QSRunningTeam/A3A27mRq
+2215573545@chatroom           2016-12-13 07:13:17      Avenue                   接收                文本                【打卡】Keep＋19mins
+2215573545@chatroom           2016-12-13 07:13:18      Avenue                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 08:34:17      littletwo                接收                文本                【打卡】跑步38分钟
+2215573545@chatroom           2016-12-13 08:34:21      littletwo                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 09:08:57      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 09:09:00      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 17:08:23      林行                     接收                文本                【打卡】羽毛球+60min
+2215573545@chatroom           2016-12-13 17:08:29      林行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 17:30:09      单🐾单🍀             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 17:36:25      慢呆                     接收                文本                小林的羽毛球拍也是TK吗
+2215573545@chatroom           2016-12-13 18:03:57      極限夢                   接收                文本                【打卡】乒乓球 1h
+2215573545@chatroom           2016-12-13 18:05:16      極限夢                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 18:55:09      江涛骇浪                 接收                文本                【打卡】跑步+37分钟
+2215573545@chatroom           2016-12-13 18:55:10      江涛骇浪                 接收                网页                我用 悦跑圈 跑了6.06公里
+                                                                                          http://sharesdk.thejoyrun.com/1NwMdi
+2215573545@chatroom           2016-12-13 19:08:55      庄小庄                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 19:08:56      庄小庄                   接收                文本                【打卡】单车  30min
+2215573545@chatroom           2016-12-13 20:18:57      大肘棒                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 20:19:12      大肘棒                   接收                文本                【打卡】跑步+60min
+2215573545@chatroom           2016-12-13 20:32:17      林行                     接收                文本                @慢呆の泣 情侣拍吗[偷笑]
+2215573545@chatroom           2016-12-13 20:34:08      沂顾                     接收                文本                【打卡】跑步30min+核心20min
+2215573545@chatroom           2016-12-13 20:34:16      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 20:54:10      云层上的阳光             接收                文本                【打卡】健身房40分钟
+2215573545@chatroom           2016-12-13 20:54:15      云层上的阳光             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 20:55:00      塔雅                     接收                文本                【打卡】keep 30min
+2215573545@chatroom           2016-12-13 20:55:03      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 20:55:17      林行                     接收                文本                @慢呆の泣 tk15
+2215573545@chatroom           2016-12-13 21:00:39      慢呆                     接收                文本                我双十二刚入TK15
+2215573545@chatroom           2016-12-13 21:02:21      李晓伟                   接收                文本                【打卡】健身房+90分钟
+2215573545@chatroom           2016-12-13 21:05:17      单🐾单🍀             接收                文本                【打卡】健身房跑步30分钟加普拉提45分钟
+2215573545@chatroom           2016-12-13 21:05:24      单🐾单🍀             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 21:08:02      liuxiangguo              接收                文本                【打卡】keep 23min
+2215573545@chatroom           2016-12-13 21:08:10      liuxiangguo              接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 21:09:37      林行                     接收                文本                @慢呆の泣 不得了
+2215573545@chatroom           2016-12-13 21:27:47      远行                     接收                文本                【打卡】肩部35分钟，有氧25分钟
+2215573545@chatroom           2016-12-13 21:30:21      慢呆                     接收                文本                【打卡】羽毛球90min
+2215573545@chatroom           2016-12-13 21:30:29      <?xml version="1.0"?>    接收                视频                [视频]
+2215573545@chatroom           2016-12-13 21:34:28      三少                     接收                文本                厉害了我的哥
+2215573545@chatroom           2016-12-13 21:36:03      慢呆                     接收                文本                hhh
+2215573545@chatroom           2016-12-13 21:36:10      慢呆                     接收                文本                年轻人
+2215573545@chatroom           2016-12-13 21:39:26      七七                     接收                文本                【打卡】keep 65min
+2215573545@chatroom           2016-12-13 21:39:29      七七                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 21:51:33      Dr.PP                    接收                文本                【打卡】无氧背部肱二头肌70分钟
+2215573545@chatroom           2016-12-13 21:51:37      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 21:56:25      海龙                     接收                文本                【打卡】keep 43分钟
+2215573545@chatroom           2016-12-13 21:56:29      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 22:25:17      玲子                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-13 22:25:34      玲子                     接收                文本                【打卡】跑步49分钟
+2215573545@chatroom           2016-12-13 23:51:43      ZR                       接收                文本                【打卡】keep 10min + plank 5min
+2215573545@chatroom           2016-12-13 23:52:01      ZR                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 07:31:39      蔡志强                   接收                文本                【打卡】跑步35min
+2215573545@chatroom           2016-12-14 07:31:40      蔡志强                   接收                网页                
+2215573545@chatroom           2016-12-14 07:41:18      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 07:41:56      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 07:50:39      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 07:51:02      塔雅                     接收                文本                厉害了
+2215573545@chatroom           2016-12-14 07:51:14      塔雅                     接收                文本                露个脸呗
+2215573545@chatroom           2016-12-14 08:27:13      @(*¯﹀¯*)                接收                文本                露个脸呗
+2215573545@chatroom           2016-12-14 08:28:02      海龙                     接收                文本                厉害了我的姐
+2215573545@chatroom           2016-12-14 08:28:23      <?xml version="1.0"?>    接收                视频                [视频]
+2215573545@chatroom           2016-12-14 08:31:53      Danst                    接收                文本                我的妈呀
+2215573545@chatroom           2016-12-14 09:12:29      李晓伟                   接收                文本                【晨跑】44分钟
+2215573545@chatroom           2016-12-14 09:12:36      李晓伟                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 09:44:43      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 09:45:21      JH2016JC                 接收                文本                感觉我有两块小腹肌了👻
+2215573545@chatroom           2016-12-14 09:45:42      阿当                     接收                文本                [强]
+2215573545@chatroom           2016-12-14 09:49:50      云层上的阳光             接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-14 10:28:44      JH2016JC                 接收                网页                难得的良心健身食谱！超详细！
+                                                                                          http://mp.weixin.qq.com/s?__biz=MjM5Njg3OTU2MQ==&amp;mid=509677681&amp;idx=2&amp;sn=d6a28f2bd470fb08905125d081b67cb7&amp;mpshare=1&amp;scene=1&amp;srcid=1214VciA9EA4lVkY4WW4tO6X#rd
+2215573545@chatroom           2016-12-14 10:30:05      JH2016JC                 接收                文本                哈哈，今天的健身谜内容污的不能看，发个食谱，要看自己进去找[偷笑]
+2215573545@chatroom           2016-12-14 15:45:08      海龙                     接收                文本                @浙江～翔妈 我也看到了[偷笑]
+2215573545@chatroom           2016-12-14 16:15:57      斌                       接收                文本                @浙江～翔妈 [强]
+2215573545@chatroom           2016-12-14 19:06:33      安静                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 19:06:53      安静                     接收                文本                【打卡】keep 35分钟
+2215573545@chatroom           2016-12-14 20:11:37      小男孩飞向中南海🇨�   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 20:12:02      小男孩飞向中南海🇨�   接收                文本                【打卡】羽毛球 120min
+2215573545@chatroom           2016-12-14 20:45:53      云层上的阳光             接收                文本                【打卡】keep21分钟
+2215573545@chatroom           2016-12-14 20:45:54      云层上的阳光             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:02:09      大肘棒                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:02:20      大肘棒                   接收                文本                【打卡】keep17分钟
+2215573545@chatroom           2016-12-14 21:02:56      大肘棒                   接收                文本                今天是来划水滴[捂脸]
+2215573545@chatroom           2016-12-14 21:03:20      芬芳满枝桠😀ོ         接收                文本                【打卡】跑步机40分钟
+2215573545@chatroom           2016-12-14 21:03:23      芬芳满枝桠😀ོ         接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:04:37      沂顾                     接收                文本                【打卡】健身房60min
+2215573545@chatroom           2016-12-14 21:05:16      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:50:33      liuxiangguo              接收                文本                【打卡】keep 22分钟
+2215573545@chatroom           2016-12-14 21:50:36      liuxiangguo              接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:51:56      阿当                     接收                文本                【打卡】健身房背部锻炼60min
+2215573545@chatroom           2016-12-14 21:52:03      阿当                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:57:42      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:57:43      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 21:58:10      塔雅                     接收                文本                【打卡】健身房+keep 150min
+2215573545@chatroom           2016-12-14 22:17:02      海龙                     接收                文本                【打卡】keep 22分钟
+2215573545@chatroom           2016-12-14 22:17:05      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 22:24:20      Dr.PP                    接收                文本                【打卡】无氧胸部肱三头肌70分钟
+2215573545@chatroom           2016-12-14 22:24:22      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 23:12:40      ZR                       接收                文本                【打卡】跑步 23min+plank 6min
+2215573545@chatroom           2016-12-14 23:12:48      ZR                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-14 23:24:20      远新                     接收                文本                【打卡】keep 93mins
+2215573545@chatroom           2016-12-14 23:24:21      远新                     接收                网页                
+2215573545@chatroom           2016-12-14 23:35:53      　                       接收                文本                【打卡】keep49分钟
+2215573545@chatroom           2016-12-14 23:36:07      　                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 07:38:30      Avenue                   接收                文本                【打卡】Keep＋26mins
+2215573545@chatroom           2016-12-15 07:38:31      Avenue                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 08:01:59      極限夢                   接收                文本                【打卡】跑步 1h
+2215573545@chatroom           2016-12-15 08:04:46      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 08:05:36      JH2016JC                 接收                文本                【打卡】Keep＋35mins
+2215573545@chatroom           2016-12-15 20:29:03      大肘棒                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 20:29:20      大肘棒                   接收                文本                【打卡】跑步+47mins
+2215573545@chatroom           2016-12-15 20:38:49      @(*¯﹀¯*)                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 20:39:10      @(*¯﹀¯*)                接收                文本                【打卡】健身房60分钟
+2215573545@chatroom           2016-12-15 21:11:05      沂顾                     接收                文本                【打卡】跑步40min+瑜伽60min
+2215573545@chatroom           2016-12-15 21:11:11      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 21:33:01      JH2016JC                 接收                文本                【打卡】游泳+40mins
+2215573545@chatroom           2016-12-15 21:35:42      庄小庄                   接收                文本                【请假】重感冒了
+2215573545@chatroom           2016-12-15 21:35:56      庄小庄                   接收                文本                反复无常的天气😓
+2215573545@chatroom           2016-12-15 21:40:28      百合燕燕                 接收                文本                【打卡】力量训练1小时
+2215573545@chatroom           2016-12-15 21:40:31      百合燕燕                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 21:41:06      百合燕燕                 接收                文本                捕捉到同款👟妹子
+2215573545@chatroom           2016-12-15 21:46:13      七七                     接收                文本                【打卡】keep 80min
+2215573545@chatroom           2016-12-15 21:46:17      七七                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 21:56:43      我                       发送                文本                【打卡】跑步+1h
+2215573545@chatroom           2016-12-15 21:56:49      我                       发送                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 21:57:20      苏良义                   接收                文本                太牛了
+2215573545@chatroom           2016-12-15 21:57:45      梁文彦                   接收                文本                跑的好快，快赶上我了
+2215573545@chatroom           2016-12-15 21:58:37      我                       发送                文本                额，边聊天边跑...都不知道自己配速[捂脸]
+2215573545@chatroom           2016-12-15 22:01:13      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 22:01:14      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 22:01:15      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 22:01:39      苏良义                   接收                文本                今天这么大风
+2215573545@chatroom           2016-12-15 22:01:44      塔雅                     接收                文本                【打卡】健身房+射箭+羽毛球 240min
+2215573545@chatroom           2016-12-15 22:01:50      苏良义                   接收                文本                真是佩服
+2215573545@chatroom           2016-12-15 22:02:40      JH2016JC                 接收                文本                @北京海淀 ～塔雅 啊哟
+2215573545@chatroom           2016-12-15 22:02:50      塔雅                     接收                文本                咋的啦
+2215573545@chatroom           2016-12-15 22:02:59      JH2016JC                 接收                文本                @北京海淀 ～塔雅 你这么发狠
+2215573545@chatroom           2016-12-15 22:03:17      JH2016JC                 接收                文本                最近恋上哪个姑娘了
+2215573545@chatroom           2016-12-15 22:03:58      塔雅                     接收                文本                没有啊！最近比较闲，就多运动下
+2215573545@chatroom           2016-12-15 22:14:23      蔡志强                   接收                文本                【打卡】篮球2小时
+2215573545@chatroom           2016-12-15 22:14:30      蔡志强                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 22:16:13      lv_w🔞                 接收                文本                【打卡】篮球2小时
+2215573545@chatroom           2016-12-15 22:17:41      lv_w🔞                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 22:19:30      期待使者                 接收                网页                
+                                                                                          
+2215573545@chatroom           2016-12-15 22:19:54      期待使者                 接收                文本                【打卡】跑步26分钟
+2215573545@chatroom           2016-12-15 22:22:26      我                       发送                文本                @北京海淀 ～塔雅 最近看上谁了，这么拼
+2215573545@chatroom           2016-12-15 22:22:56      我                       发送                文本                @北京昌平~小苏 风不大呢，就是有点冷，刚还灌了一罐啤酒要冻死了[捂脸]
+2215573545@chatroom           2016-12-15 22:22:57      塔雅                     接收                文本                [尴尬]这是套路吗
+2215573545@chatroom           2016-12-15 22:23:40      我                       发送                文本                必须啊
+2215573545@chatroom           2016-12-15 22:25:17      苏良义                   接收                文本                @北京海淀 ～塔雅 最近看上谁了，这么拼
+2215573545@chatroom           2016-12-15 22:25:39      远行                     接收                文本                【打卡】二头，三头40分钟，有氧25分钟
+2215573545@chatroom           2016-12-15 22:25:54      苏良义                   接收                文本                来，我的被窝刚暖热@BadGirl 
+2215573545@chatroom           2016-12-15 22:26:11      塔雅                     接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-15 22:26:43      我                       发送                文本                [捂脸]
+2215573545@chatroom           2016-12-15 22:26:51      我                       发送                文本                啥时候一起去喝酒吧
+2215573545@chatroom           2016-12-15 22:27:36      我                       发送                文本                你被窝有人吗
+2215573545@chatroom           2016-12-15 22:27:37      塔雅                     接收                文本                喝酒，我不行，不过可以坐陪
+2215573545@chatroom           2016-12-15 22:27:42      我                       发送                文本                没人我不去
+2215573545@chatroom           2016-12-15 22:27:54      我                       发送                文本                为啥啊
+2215573545@chatroom           2016-12-15 22:28:10      苏良义                   接收                文本                赶快来
+2215573545@chatroom           2016-12-15 22:28:17      苏良义                   接收                文本                喝酒，我不行，不过可以坐陪
+2215573545@chatroom           2016-12-15 22:28:38      苏良义                   接收                文本                目前我发现公司有几个超能喝的
+2215573545@chatroom           2016-12-15 22:28:40      JH2016JC                 接收                文本                @BadGirl @北京昌平~小苏 污，太污[捂脸]
+2215573545@chatroom           2016-12-15 22:28:55      JH2016JC                 接收                文本                你俩想干嘛
+2215573545@chatroom           2016-12-15 22:29:08      苏良义                   接收                文本                每个人喝白酒都是一斤半的
+2215573545@chatroom           2016-12-15 22:29:31      苏良义                   接收                文本                有一个把啤酒当怂人乐
+2215573545@chatroom           2016-12-15 22:29:47      江涛骇浪                 接收                文本                白酒一斤半，啤酒随便灌
+2215573545@chatroom           2016-12-15 22:29:52      江涛骇浪                 接收                文本                [憨笑][憨笑][憨笑]
+2215573545@chatroom           2016-12-15 22:30:26      江涛骇浪                 接收                文本                这样喝的都有病
+2215573545@chatroom           2016-12-15 22:30:39      苏良义                   接收                文本                喝酒超牛逼
+2215573545@chatroom           2016-12-15 22:30:46      苏良义                   接收                文本                没人喝得过
+2215573545@chatroom           2016-12-15 22:31:04      我                       发送                文本                牛逼
+2215573545@chatroom           2016-12-15 22:31:17      我                       发送                文本                好久不练我酒量也不行了[捂脸]
+2215573545@chatroom           2016-12-15 22:31:58      苏良义                   接收                文本                昨天他们又干了六瓶
+2215573545@chatroom           2016-12-15 22:32:11      苏良义                   接收                文本                [捂脸][捂脸][捂脸]
+2215573545@chatroom           2016-12-15 22:34:28      塔雅                     接收                文本                酒量还能练出来，厉害
+2215573545@chatroom           2016-12-15 22:34:35      塔雅                     接收                文本                是往死里喝吗
+2215573545@chatroom           2016-12-15 22:34:57      我                       发送                文本                额，酒量分天生和后天刻苦训练
+2215573545@chatroom           2016-12-15 22:34:59      我                       发送                文本                [捂脸]
+2215573545@chatroom           2016-12-15 22:49:02      林行                     接收                文本                【打卡】keep+33min
+2215573545@chatroom           2016-12-15 22:49:08      林行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-15 23:16:17      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 07:20:39      蔡志强                   接收                文本                【打卡】跑步40min
+2215573545@chatroom           2016-12-16 07:20:40      蔡志强                   接收                网页                @蔡的跑步打卡
+                                                                                          http://mi.mixpay.cn/app/#/detail/QSRunningTeam/1qxb0P9D
+2215573545@chatroom           2016-12-16 07:45:34      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 07:46:16      JH2016JC                 接收                文本                【打卡】keep+25min
+2215573545@chatroom           2016-12-16 08:14:11      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 08:30:11      Avenue                   接收                文本                【打卡】Keep＋24mins
+2215573545@chatroom           2016-12-16 08:30:13      Avenue                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 12:27:21      远行                     接收                文本                【打卡】腿部35分钟，有氧30分钟
+2215573545@chatroom           2016-12-16 12:27:37      远行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 17:43:31      Aquarius-佳佳🌸        接收                文本                希望能帮帮忙，原谅我发群里
+2215573545@chatroom           2016-12-16 17:43:32      Aquarius-佳佳🌸        接收                网页                愿好心人帮我度过难关 - 轻松筹
+                                                                                          http://m.qschou.com/project/index/85da9b7f-3b6f-44f9-bb70-ad7f1361d613?uuid=51296c22-12a5-4ee8-a8fe-d3e53729c2b0&amp;platform=wechat&amp;shareto=2&amp;timestamp=2016121617420748762575458
+2215573545@chatroom           2016-12-16 19:55:08      @(*¯﹀¯*)                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 19:55:24      @(*¯﹀¯*)                接收                文本                【打卡】健身房90分钟
+2215573545@chatroom           2016-12-16 20:24:39      沂顾                     接收                文本                【打卡】跑步20min+器械30min
+2215573545@chatroom           2016-12-16 20:24:45      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 20:37:21      单🐾单🍀             接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 20:37:22      单🐾单🍀             接收                文本                【打卡】游泳1小时
+2215573545@chatroom           2016-12-16 20:40:27      董晓文                   接收                文本                【打卡】keep 30mins 
+2215573545@chatroom           2016-12-16 20:40:35      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 21:39:16      海龙                     接收                文本                【打卡】keep 62分钟
+2215573545@chatroom           2016-12-16 21:39:19      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 21:39:45      江涛骇浪                 接收                文本                【打卡】自重训练:每组30个深蹲+30个俯卧撑+50个仰卧起坐，循环五组
+2215573545@chatroom           2016-12-16 22:07:26      塔雅                     接收                文本                【打卡】keep 60min
+2215573545@chatroom           2016-12-16 22:26:05      Dr.PP                    接收                文本                【打卡】无氧臀部腿部90分钟
+2215573545@chatroom           2016-12-16 22:26:09      Dr.PP                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-16 22:26:22      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 00:00:43      ZR                       接收                文本                【打卡】keep+14min
+2215573545@chatroom           2016-12-17 00:00:49      ZR                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 09:09:16      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 09:09:48      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 09:10:11      JH2016JC                 接收                文本                吃早饭了[呲牙]
+2215573545@chatroom           2016-12-17 09:12:19      JH2016JC                 接收                文本                吃饱搞卫生[悠闲]
+2215573545@chatroom           2016-12-17 09:14:59      JH2016JC                 接收                文本                【打卡】keep+48min
+2215573545@chatroom           2016-12-17 09:15:45      Aquarius-佳佳🌸        接收                网页                愿好心人帮我度过难关 - 轻松筹
+                                                                                          http://m.qschou.com/project/index/85da9b7f-3b6f-44f9-bb70-ad7f1361d613?uuid=51296c22-12a5-4ee8-a8fe-d3e53729c2b0&amp;platform=wechat&amp;shareto=2&amp;timestamp=2016121709153989258707533
+2215573545@chatroom           2016-12-17 10:34:28      斌                       接收                文本                @浙江～翔妈 [微笑]
+2215573545@chatroom           2016-12-17 17:55:31      我                       发送                文本                【打卡】瑜伽+3h
+2215573545@chatroom           2016-12-17 17:55:43      我                       发送                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 18:01:55      玲子                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 18:02:33      玲子                     接收                文本                【打卡】跑步136分钟
+2215573545@chatroom           2016-12-17 18:25:29      海龙                     接收                文本                【打卡】keep 110分钟
+2215573545@chatroom           2016-12-17 18:25:33      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 19:15:01      董晓文                   接收                文本                【打卡】keep 30分钟
+2215573545@chatroom           2016-12-17 19:15:20      董晓文                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 19:40:59      远行                     接收                文本                【打卡】胸部35分钟，拉伸15分钟
+2215573545@chatroom           2016-12-17 19:50:59      林行                     接收                文本                【打卡】keep+42min
+2215573545@chatroom           2016-12-17 19:51:05      林行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 19:52:00      慢呆                     接收                文本                【请假】期末复习考试 到1.13
+2215573545@chatroom           2016-12-17 19:57:52      林行                     接收                文本                加油[呲牙]
+2215573545@chatroom           2016-12-17 20:20:22      慢呆                     接收                文本                今天考完六级
+2215573545@chatroom           2016-12-17 20:20:25      慢呆                     接收                文本                感觉GG了
+2215573545@chatroom           2016-12-17 20:21:17      @(*¯﹀¯*)                接收                文本                这次六级考试还不错，试卷打印的很清晰，题型很齐全，教室很温暖，桌椅无晃动现象，监考老师服务很周全，非常满意，五星好评，下次还会再来。
+2215573545@chatroom           2016-12-17 20:31:46      沂顾                     接收                文本                【打卡】跑步10min+核心15min+单车30min
+2215573545@chatroom           2016-12-17 20:32:11      沂顾                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 20:36:02      @(*¯﹀¯*)                接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 20:36:26      @(*¯﹀¯*)                接收                文本                【打卡】跑步40分中
+2215573545@chatroom           2016-12-17 21:35:17      Avenue                   接收                文本                【打卡】快走＋62mins
+2215573545@chatroom           2016-12-17 21:35:18      Avenue                   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 21:36:59      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 21:37:21      期待使者                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 21:37:46      期待使者                 接收                文本                【打卡】跑步249分钟
+2215573545@chatroom           2016-12-17 21:37:55      JH2016JC                 接收                文本                【打卡】跑步42分钟
+2215573545@chatroom           2016-12-17 21:38:12      JH2016JC                 接收                文本                @期者 [强][强][强]
+2215573545@chatroom           2016-12-17 21:48:42      @(*¯﹀¯*)                接收                文本                [强]
+2215573545@chatroom           2016-12-17 21:49:06      @(*¯﹀¯*)                接收                文本                @浙江～翔妈 
+2215573545@chatroom           2016-12-17 21:49:56      期待使者                 接收                文本                @浙江～翔妈 上合昆明马拉松
+2215573545@chatroom           2016-12-17 21:50:13      期待使者                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 21:50:16      期待使者                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 22:37:16      林行                     接收                文本                @慢呆 飘过，下次去刷分[捂脸]
+2215573545@chatroom           2016-12-17 22:37:44      慢呆                     接收                文本                我考过425[微笑]
+2215573545@chatroom           2016-12-17 22:40:09      林行                     接收                文本                考神
+2215573545@chatroom           2016-12-17 22:43:48      慢呆                     接收                文本                [微笑]怎么说呢 哭笑不得的分数 这个分数除了表明你过了 其实什么用都没有😅
+2215573545@chatroom           2016-12-17 22:45:50      梁文彦                   接收                文本                本来也没啥用
+2215573545@chatroom           2016-12-17 22:46:10      林行                     接收                文本                是哒
+2215573545@chatroom           2016-12-17 22:57:19      　                       接收                文本                【打卡】keep37分钟
+2215573545@chatroom           2016-12-17 22:57:32      　                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:06:53      ZR                       接收                文本                【打卡】跑步62min+骑行44min
+2215573545@chatroom           2016-12-17 23:06:59      ZR                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:21:02      小男孩飞向中南海🇨�   接收                文本                【打卡】羽毛球180min
+2215573545@chatroom           2016-12-17 23:21:11      小男孩飞向中南海🇨�   接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:50:39      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:50:42      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:50:43      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-17 23:51:15      塔雅                     接收                文本                【打卡】射箭+健身房+keep 150min
+2215573545@chatroom           2016-12-18 00:00:37      远新                     接收                文本                【打卡】keep 34mins
+2215573545@chatroom           2016-12-18 00:00:38      远新                     接收                网页                
+2215573545@chatroom           2016-12-18 02:37:13      斌                       接收                文本                【打卡】keep 7 mins
+2215573545@chatroom           2016-12-18 09:32:34      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 09:32:47      Mr.Xu                    接收                动画表情            [动画表情]
+2215573545@chatroom           2016-12-18 09:33:02      JH2016JC                 接收                文本                【打卡】keep 瑜珈31mins
+2215573545@chatroom           2016-12-18 09:33:10      JH2016JC                 接收                文本                @北京-Mr.Xu [擦汗]
+2215573545@chatroom           2016-12-18 09:33:22      Mr.Xu                    接收                文本                厉害啊
+2215573545@chatroom           2016-12-18 09:33:45      JH2016JC                 接收                文本                早饭还没吃呢[白眼]
+2215573545@chatroom           2016-12-18 09:34:36      Mr.Xu                    接收                文本                九点了还没吃@浙江～翔妈 
+2215573545@chatroom           2016-12-18 09:34:55      JH2016JC                 接收                文本                今天八点才醒
+2215573545@chatroom           2016-12-18 09:35:07      JH2016JC                 接收                文本                醒了赖床
+2215573545@chatroom           2016-12-18 09:35:51      Mr.Xu                    接收                文本                @浙江～翔妈 你一直是我们的榜样[强][强]
+2215573545@chatroom           2016-12-18 09:37:29      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 09:37:39      JH2016JC                 接收                文本                @北京-Mr.Xu [傲慢][白眼]
+2215573545@chatroom           2016-12-18 09:43:00      Mr.Xu                    接收                文本                烧饼油条
+2215573545@chatroom           2016-12-18 09:48:25      JH2016JC                 接收                文本                大饼油条
+2215573545@chatroom           2016-12-18 09:52:25      Mr.Xu                    接收                文本                我老家也叫大饼油条
+2215573545@chatroom           2016-12-18 09:52:30      Mr.Xu                    接收                文本                可以夹着吃
+2215573545@chatroom           2016-12-18 10:55:18      百合燕燕                 接收                文本                【打卡】力量1小时 拉伸1小时
+2215573545@chatroom           2016-12-18 10:55:21      百合燕燕                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 10:56:37      百合燕燕                 接收                文本                今天的亮点是旁边的大叔😂五十多了吧 每次来健身房总能看见他 [惊讶]
+2215573545@chatroom           2016-12-18 11:01:24      斌                       接收                文本                @上海金桥～百合燕燕 [强]
+2215573545@chatroom           2016-12-18 11:13:06      斌                       接收                文本                @浙江～翔妈 [强]
+2215573545@chatroom           2016-12-18 12:26:05      林行                     接收                文本                [强]
+2215573545@chatroom           2016-12-18 12:54:47      苏良义                   接收                网页                ofo红包来啦！
+                                                                                          https://common.ofo.so/packet/regular_packet.html?random=,#5706758/600acda0ee6b2c9fc11bacc672eec08aee17b3516dc44c4a545adc011c90fa69122904797b7eb1dd497ef76f1bc894aaff456dfaf4097cbbec70afa3a2d25c475a5596b18c03cc1168b04aa6b7be4d1b
+2215573545@chatroom           2016-12-18 13:21:54      <?xml version="1.0"?>    接收                视频                [视频]
+2215573545@chatroom           2016-12-18 14:31:27      林行                     接收                文本                @北京昌平~小苏 你也骑小黄啦
+2215573545@chatroom           2016-12-18 14:33:52      梁文彦                   接收                文本                ……
+2215573545@chatroom           2016-12-18 14:56:53      JH2016JC                 接收                文本                ……
+2215573545@chatroom           2016-12-18 16:39:24      七七                     接收                文本                【打卡】keep 34min
+2215573545@chatroom           2016-12-18 16:39:27      七七                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 16:48:46      斌                       接收                文本                【打卡】keep 22 min
+2215573545@chatroom           2016-12-18 16:52:14      斌                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 16:55:05      Mr.Xu                    接收                文本                【打卡】打篮球 140min
+2215573545@chatroom           2016-12-18 16:55:17      Mr.Xu                    接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 16:57:33      林行                     接收                文本                【打卡】keep +30min
+2215573545@chatroom           2016-12-18 16:57:39      林行                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 16:57:55      苏良义                   接收                文本                骑小黄，[流汗][流汗][流汗]
+2215573545@chatroom           2016-12-18 16:58:00      苏良义                   接收                文本                我也是醉了
+2215573545@chatroom           2016-12-18 16:58:46      林行                     接收                文本                咋啦？
+2215573545@chatroom           2016-12-18 18:45:12      　                       接收                文本                【打卡】keep30分钟
+2215573545@chatroom           2016-12-18 18:45:26      　                       接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 19:40:12      塔雅                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 19:40:25      塔雅                     接收                文本                【打卡】keep 60min
+2215573545@chatroom           2016-12-18 19:56:00      Mr.Xu                    接收                文本                【打卡】游泳1300     65min
+2215573545@chatroom           2016-12-18 20:08:24      JH2016JC                 接收                文本                【打卡】游泳60min
+2215573545@chatroom           2016-12-18 20:09:11      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 20:16:53      JH2016JC                 接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 20:17:33      JH2016JC                 接收                文本                这不会绕晕[呲牙]
+2215573545@chatroom           2016-12-18 20:18:11      JH2016JC                 接收                文本                大王
+2215573545@chatroom           2016-12-18 20:18:26      JH2016JC                 接收                文本                ＠大王
+2215573545@chatroom           2016-12-18 20:18:39      我                       发送                文本                咋啦
+2215573545@chatroom           2016-12-18 20:19:16      我                       发送                文本                数据第五次导出失败了[捂脸]刚换了台💻
+2215573545@chatroom           2016-12-18 20:19:31      JH2016JC                 接收                文本                🌹。，
+2215573545@chatroom           2016-12-18 20:19:47      JH2016JC                 接收                文本                [呲牙]大王辛苦
+2215573545@chatroom           2016-12-18 20:20:02      JH2016JC                 接收                文本                [蛋糕][啤酒][嘴唇][爱心][咖啡]
+2215573545@chatroom           2016-12-18 20:20:39      塔雅                     接收                文本                🎉🎉🎉🎉
+2215573545@chatroom           2016-12-18 20:20:42      斌                       接收                文本                [呲牙]
+2215573545@chatroom           2016-12-18 20:25:03      海龙                     接收                文本                【打卡】keep 49分钟
+2215573545@chatroom           2016-12-18 20:25:07      海龙                     接收                照片壁纸            [照片壁纸]
+2215573545@chatroom           2016-12-18 20:47:22      塔雅                     接收                文本                @BadGirl 还是不行吗？
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－

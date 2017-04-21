@@ -4,8 +4,9 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -15,13 +16,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FillterHabit {
-	public static String FILE_NAME = "2016-8-7.txt";
+	public static String FILE_NAME = "2017-2-5.txt";
 	public static String FILE_OUT_NAME = FILE_NAME + ".out.txt";
 	public static String USER_FILE_NAME = "makeUsers.txt";
 	public static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd"); 
 	
-	public static String StartDateString = "2016-07-31";
-	public static String EndDateString = "2016-08-06";
+	public static String StartDateString = "2017-01-29";
+	public static String EndDateString = "2017-02-04";
 	private static Date START_DATE;
 	private static Date END_DATE;
 	private static int REACH_COUNT = 3;
@@ -60,10 +61,10 @@ public class FillterHabit {
 
 		File fileOut = new File(FILE_OUT_NAME);
 		fileOut.createNewFile();
-		FileWriter filterWriter = new FileWriter(fileOut);
 		BufferedReader bufferedReader = new BufferedReader(fileReader);
-		BufferedWriter bufferedWriter = new BufferedWriter(filterWriter);
+		BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileOut), "gb2312"));
 
+		
 		String line = bufferedReader.readLine();
 
 		while (line != null) {
@@ -204,14 +205,14 @@ public class FillterHabit {
 
 	}
 
-	public static void main(String[] args) {
-		try {
-			new FillterHabit().run();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+//	public static void main(String[] args) {
+//		try {
+//			new FillterHabit().run();
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//	}
 
 	private static void wirtehelp() {
 		System.out.println("+===========================================================+\n");

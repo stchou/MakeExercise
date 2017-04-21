@@ -58,12 +58,12 @@ public class Users {
 
 	}
 
-	public static void main(String[] args) {
-		try {
-			new Users().run();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
+//	public static void main(String[] args) {
+//		try {
+//			new Users().run();
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
+//	}
 
 }
